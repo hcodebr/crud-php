@@ -1,0 +1,18 @@
+{
+  "name": "evento",
+  "version": "1.0.0",
+  "description": "Projeto PHP para gerenciamento de Eventos 1ª ano SI - Fiap - EAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fiap",
+    "ead",
+    "hcode",
+    "php",
+    "7"
+  ],
+  "author": "Glaucio Daniel",
+  "license": "MIT"
+}
